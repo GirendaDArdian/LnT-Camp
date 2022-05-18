@@ -1,0 +1,121 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+
+}
+body {
+    width: 100%;
+    height: 100%;
+    color: #000;
+    overflow-y: hidden;
+
+}
+.bg-color{
+    background-color: #0054A5;
+    width: 50%px;
+    height: 695px;
+    margin-left:592px;
+}
+.foto1{
+    margin-left: 210px;
+    margin-top: 70.63px;
+}
+.foto2{
+    margin-left: 190px;
+    margin-top: 70px
+}
+
+.login{
+    margin-top: -695px;
+    width: 50%;
+}
+
+.desc-web{
+    font-weight: 300;
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+    color: #fff;
+    font-style: italic;
+    margin-left: 190px;
+    margin-top: 30px;
+}
+
+.h1{
+    color:#0054A5 ;
+    margin-left: 140px;
+    margin-top: 180px;
+    font-size: 30px;
+}
+
+.form {
+    width: 590px;
+    margin-top: 70px;
+}
+.label{
+    color: #0054A5;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 45px;
+    line-height: 40px;
+}
+/* bagian input */
+.input{
+    border-radius: 100px;
+    width: 480px;
+    margin-left: 45px;
+    height: 40px;
+    border: solid 2px #0054A5;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.input::placeholder{
+    font-style: italic;
+    color: #000000;
+    opacity: 0.5;
+    font-size: 15px;
+}
+.input:-moz-placeholder {
+    font-style: italic;
+}
+.input::-moz-placeholder {
+    font-style: italic;
+}
+.input:-ms-input-placeholder{
+    font-style: italic;
+}
+
+/* masuk */
+
+.masuk{
+    font-family: sans-serif;
+    font-size: 15px;
+    background: #0054A5;
+    color: white;
+    border: solid 1px #0054A5;
+    border-radius: 100px;
+    margin-top: 30px;
+    margin-left: 45px;
+    text-decoration: none;
+    padding: 15px 45px;
+}
+p{
+    color: #0054A5;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+a{
+    color: #0054A5;
+    font-weight: bold;
+}
+
+a::after{
+    color:#0054A5 ;
+}
+
+
